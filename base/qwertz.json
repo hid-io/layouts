@@ -1,0 +1,18 @@
+{
+	"name": ["QWERTZ"],
+	"authors": ["Jacob Alexander <haata@kiibohd.com>"],
+	"notes": [
+		"Default layout, defines a QWERTZ layout.",
+		"Used to define a base layout."
+	],
+	"locale": ["None"],
+	"hid_locale": "Undefined",
+	"parent": "base/default.json",
+	"to_hid": {
+	},
+	"from_hid": {
+	},
+	"composition": {
+	}
+}
+

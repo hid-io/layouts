@@ -1,0 +1,17 @@
+{
+	"name": ["en_US", "US", "US ANSI", "ANSI"],
+	"authors": ["Jacob Alexander <haata@kiibohd.com>"],
+	"notes": [
+		"US ANSI/en_US layout, USB HID spec default."
+	],
+	"locale": ["US"],
+	"hid_locale": "US",
+	"parent": "base/qwerty.json",
+	"to_hid": {
+	},
+	"from_hid": {
+	},
+	"composition": {
+	}
+}
+
