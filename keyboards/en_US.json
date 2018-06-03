@@ -7,9 +7,9 @@
 	"locale": ["US"],
 	"hid_locale": "US",
 	"parent": "base/qwerty.json",
-	"to_hid": {
+	"to_hid_keyboard": {
 	},
-	"from_hid": {
+	"from_hid_keyboard": {
 	},
 	"composition": {
 	}

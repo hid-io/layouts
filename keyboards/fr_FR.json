@@ -1,0 +1,17 @@
+{
+	"name": ["fr_FR", "FR"],
+	"authors": ["Jacob Alexander <haata@kiibohd.com>"],
+	"notes": [
+		"French/fr_FR layout."
+	],
+	"locale": ["FR"],
+	"hid_locale": "French",
+	"parent": "base/azerty.json",
+	"to_hid_keyboard": {
+	},
+	"from_hid_keyboard": {
+	},
+	"composition": {
+	}
+}
+

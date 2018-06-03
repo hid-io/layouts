@@ -1,0 +1,17 @@
+{
+	"name": ["de_DE", "DE"],
+	"authors": ["Jacob Alexander <haata@kiibohd.com>"],
+	"notes": [
+		"German/de_DE layout."
+	],
+	"locale": ["DE"],
+	"hid_locale": "German",
+	"parent": "base/qwertz.json",
+	"to_hid_keyboard": {
+	},
+	"from_hid_keyboard": {
+	},
+	"composition": {
+	}
+}
+
