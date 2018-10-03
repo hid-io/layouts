@@ -26,6 +26,17 @@ If you are wondering where to add your own layout, this is where it should go.
 * [keyboards](keyboards)
 
 
+## Tests
+
+To run a validation test you'll need Python 3.4+ and pipenv.
+
+```bash
+pipenv install
+pipenv shell
+tests/python-test.py
+```
+
+
 ## References
 
 * [USB HID Spec v1.11](http://www.usb.org/developers/hidpage/HID1_11.pdf)
