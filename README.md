@@ -9,7 +9,7 @@ This definitely complicates configuring a programmable as the keyboard must be p
 To solve all this in a convenient way, this repo provides a JSON file per keyboard layout which defines the mappings required by KLL (and the configurator).
 That means if your keyboard layout isn't available, all you have to do is submit a Pull Request and it will be added to the configurator!
 
-[![GitHub Action Status](https://github.com/hid-io/layouts/workflows/Layout%20Validation.svg)](https://github.com/hid-io/layouts/actions)
+[![GitHub Action Status](https://github.com/hid-io/layouts/workflows/Layout%20Validation/badge.svg)](https://github.com/hid-io/layouts/actions)
 
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.freenode.net/hid-io.png)](https://kiwiirc.com/client/irc.freenode.net/#hid-io)
 
