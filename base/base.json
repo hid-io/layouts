@@ -1016,6 +1016,12 @@
 		"0x92": "Dpad Right",
 		"0x93": "Dpad Left",
 
+		"0x97": "System Function Shift",
+		"0x98": "System Function Shift Lock",
+
+		"0x9A": "System Dismiss Notification",
+		"0x9B": "System Do Not Disturb",
+
 		"0xA0": "Dock",
 		"0xA1": "Undock",
 		"0xA2": "Setup",
@@ -1056,6 +1062,12 @@
 		"Dpad Down": "0x91",
 		"Dpad Right": "0x92",
 		"Dpad Left": "0x93",
+
+		"System Function Shift": "0x97",
+		"System Function Shift Lock": "0x98",
+
+		"System Dismiss Notification": "0x9A",
+		"System Do Not Disturb": "0x9B",
 
 		"Dock": "0xA0",
 		"Undock": "0xA1",
